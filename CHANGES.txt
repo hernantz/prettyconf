@@ -1,3 +1,8 @@
+1.2.4
+=====
+
+  - Update requirements and fix pypy build errors
+
 1.2.3
 =====
 
